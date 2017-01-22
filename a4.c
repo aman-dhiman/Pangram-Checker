@@ -1,21 +1,3 @@
-/************************Assignment4**************************
-Name: Aman Dhiman
-ID:   0901912
-Nov. 21, 2014
-Cis 1500
-
-I have exclusive control over this submission via my password.
-By including this statement in this header comment, I certify that:
-1. I have read and understood the University policy on academic integrity;
-2. I have completed the Computing with Integrity tutorial on Moodle; and
-3. I have achieved at least 80% in the Computing and Integrity Self test.
-
-I assert that this work is my own. I have appropriately acknowledged any 
-and all material that I have used, whether directly quoted or paraphrased.
-Furthermore, I certify that this assignment was prepared by me specifically 
-for this course.
-**************************************************************/
-
 #include <stdio.h>
 #include <ctype.h> // required for tolower() function
 
